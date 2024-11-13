@@ -1,0 +1,36 @@
+.Title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: coral;
+    align-self: flex-start;
+    font-size: 30px;
+}
+
+.Subtitle{
+    font-size: 30px;
+    color: darkgreen;
+    align-items: Left;
+}
+
+.Subtitle{
+    font-size: 30px;
+    color: darkgreen;
+    align-items: Left;
+}
+
+.block1{
+    float: left;
+    width: 20%;
+}
+
+.block2{
+    float: right;
+    width: 50%;
+}
+
+.Paragraph{
+    font-size: 20px;
+}
+
+.Bullets{
+    font-family: 'Times New Roman', Times, serif;
+}
