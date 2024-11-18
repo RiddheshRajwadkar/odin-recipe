@@ -11,6 +11,12 @@
     align-items: Left;
 }
 
+.Subtitle2{
+    font-size: 30px;
+    color: darkgreen;
+    align-items: left;
+}
+
 .Subtitle{
     font-size: 30px;
     color: darkgreen;
@@ -19,12 +25,17 @@
 
 .block1{
     float: left;
-    width: 20%;
+    width: 30%;
 }
 
 .block2{
+    float: left;
+    width: 30%;
+}
+
+.block3{
     float: right;
-    width: 50%;
+    width: 30%;
 }
 
 .Paragraph{
